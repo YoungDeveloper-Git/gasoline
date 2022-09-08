@@ -1,0 +1,6 @@
+Name, Omar
+HotDog, ['4', '0']
+Fries, ['7.2', '0']
+Cola, ['4.4', '0']
+Qamburger, ['5.4', '0']
+LPG, ['Liters', '0']

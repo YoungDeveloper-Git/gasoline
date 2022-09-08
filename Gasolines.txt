@@ -1,0 +1,5 @@
+Regular 92, 0.59
+Super 95, 1.18
+Premium 98, 1.35
+Diesel, 0.472
+LPG, 0.384

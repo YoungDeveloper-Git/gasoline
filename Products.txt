@@ -1,0 +1,4 @@
+Hot Dog, 4
+Fries, 7.2
+Cola, 4.4
+Qamburger, 5.4
